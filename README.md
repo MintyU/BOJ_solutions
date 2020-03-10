@@ -1,4 +1,4 @@
 # BOJ_solutions
 Solutions of BOJ
 
-[](https://mintyu.github.io)
+[Explanation](https://mintyu.github.io)
