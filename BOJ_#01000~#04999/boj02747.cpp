@@ -1,26 +1,14 @@
 #include <iostream>
 using namespace std;
 
-int fib(int a) {
-    switch (a)
-    {
-    case 0:
-        return 0;
-        break;
-    case 1:
-        return 1;
-        break;
-    
-    default:
-        return fib(a-1) + fib(a-2);
-        break;
-    }
-
-}
-
 int main() {
-    int a;
-    cin >> a;
-    cout << fib(a);
+    long long a[1000] = {0, 1, };
+    int count;
+    cin >> count;
+    for (int i = 2; i <= count; i++)
+    {
+        a[i] = a[i-1]+a[i-2];
+    }
+    cout << a[count];
     return 0;
 }
