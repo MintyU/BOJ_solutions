@@ -9,7 +9,7 @@ Solutions of BOJ
 ---
 ### 01000 ~ 04999
 
-- 02747(Explanation(https://mintyu.github.io/BOJ02747.md/))
+- 02747([Explanation](https://mintyu.github.io/BOJ02747.md/))
 
 ---
 
