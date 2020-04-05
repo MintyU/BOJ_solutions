@@ -3,17 +3,17 @@ Solutions of BOJ
 
 ## Upload Status
 
+Update Soon...
 
-
-### 01000 ~ 04999
+### BOJ_01000 ~ BOJ_04999
 
 - 02747([Explanation](https://mintyu.github.io/BOJ02747.md/))
 
 ---
 
-### 05000 ~ 09999
+### BOJ_05000 ~ BOJ_09999
 ---
-### 10000 ~ 14999
+### BOJ_10000 ~ BOJ_14999
 ---
-### 15000 ~ 19999
+### BOJ_15000 ~ BOJ_19999
 
