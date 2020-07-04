@@ -7,7 +7,7 @@ Update Soon...
 
 ### BOJ_01000 ~ BOJ_04999
 - 02438
-- 02747([Explanation](https://mintyu.github.io/BOJ02747.md/))
+- 02747([Explanation](https://mintyu.github.io/BOJ02747/))
 - 02884
 - 02920
 - 04447
@@ -20,7 +20,7 @@ Update Soon...
 - 10809
 - 10995
 - 11648
-- 14467([Explanation](https://mintyu.github.io/BOJ14467.md/))
+- 14467([Explanation](https://mintyu.github.io/BOJ14467/))
 ---
 ### BOJ_15000 ~ BOJ_19999
 - 18247
