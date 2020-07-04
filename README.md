@@ -20,7 +20,7 @@ Update Soon...
 - 10809
 - 10995
 - 11648
-- 14467
+- 14467([Explanation](https://mintyu.github.io/BOJ14467.md/))
 ---
 ### BOJ_15000 ~ BOJ_19999
 - 18247
